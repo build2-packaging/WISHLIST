@@ -6,4 +6,5 @@ a `build2` assimilation wishlist
 - [~arximboldi/lager]( https://github.com/arximboldi/lager )
 - [~ocornut/imgui]( https://github.com/ocornut/imgui )
 - [~tlk00/BitMagic]( https://github.com/tlk00/BitMagic )
+- [~bztsrc/scalable-font2]( https://gitlab.com/bztsrc/scalable-font2 )
 
